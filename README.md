@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ishmaello
 - 👀 I’m interested in crypto 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on development and projects
+- 💞️ I’m looking to collaborate on innovative projects for developers 
 - 📫 How to reach me https://t.me/t_i6f
 
 <!---
